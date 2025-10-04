@@ -45,9 +45,10 @@
     position: absolute;
     min-height: 10vh;
     object-fit: cover;
-    transform: translate(-30%, 10%);
+    transform: translate(-40%, 10%);
     z-index: -1;
     bottom: 0px;
+     min-height: 100vh;
 }
 
 .hero__action{
